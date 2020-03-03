@@ -1,3 +1,2 @@
-初始化Android示例
-
-1、字符串处理（正则表达式）
+Git is a distributed version control system.
+Git is free software.
